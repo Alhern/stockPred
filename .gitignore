@@ -1,0 +1,12 @@
+# Your API keys
+key.py
+
+# Virtual env for Pycharm
+venv
+
+# Backup files
+*.bak
+
+*.log
+*.pyc
+__pycache__
